@@ -23,20 +23,7 @@ public class StudentBatch {
         }
     }
 
-    /*
-    public Student findStudent(String name) {
-        for (Student student : students) {
-
-            if (student.getName().getFirstName().equals(name)) {
-
-                System.out.println(student.getName().getFirstName() + " is in this batch.");
-                return student;
-            }
-        }
-
-        System.out.println(name + " is not in this batch.");
-        return null;
-    }*/
+    
 
     public void setTeacher(Teacher teacher) {
         this.teacher = teacher;
