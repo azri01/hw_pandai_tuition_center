@@ -62,7 +62,7 @@ public class Main {
         batch2.addStudent(student4);
 
 
-        //batch1.findStudent("yoy");
+        
 
         System.out.println("Average mark for tuition in KL is : " + ((student1.getAverageMark()+student2.getAverageMark()))/2);
         System.out.println("Average mark for tuition in JB is :"+ ((student3.getAverageMark()+student4.getAverageMark()))/2);
